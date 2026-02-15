@@ -1,0 +1,48 @@
+nav {
+    text-align: center;
+    width: 80%;
+    text-decoration: none;
+    background-color: rgb(218, 211, 224);
+    color: black;
+    padding: 20px;
+    text-align: center;
+    border-color: blue;
+
+}
+
+p {
+    color: blue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+form {
+    text-align: center;
+    background-color: beige;
+
+}
+
+img {
+    background-color: black;
+}
+
+.movies {
+    background-color: blanchedalmond;
+    align-items: left;
+
+}
+
+nav li {
+    width: 10%;
+
+}
+
+main {
+    display: grid;
+    grid-template-columns: 40%;
+    justify-content: center;
+    align-items: center;
+    row-gap: inherit;
+    background-color: bisque;
+}
